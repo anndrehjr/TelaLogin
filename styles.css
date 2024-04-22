@@ -24,6 +24,8 @@ box-sizing: border-box;
 }
 .direita-login > h1{
   color: aqua;
+  font-family: cursive;
+  margin: 5%
 }
 ;.direita-login > img{
   width: 30vw;
@@ -51,6 +53,7 @@ box-sizing: border-box;
     color: aqua;
     font-weight: 800;
     margin: 0;
+    font-family: cursive;
       }
 .entra-login{
   width: 100%;
